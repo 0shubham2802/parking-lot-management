@@ -127,7 +127,6 @@ classDiagram
     Slot "0..1" o-- "0..1" Vehicle : holds
 ```
 
-If you prefer a PNG/SVG of this diagram, I can generate one and add it to the repo.
 
 
 ## Extending & Notes
@@ -142,12 +141,9 @@ If you prefer a PNG/SVG of this diagram, I can generate one and add it to the re
 Contributions are welcome. Create issues or pull requests for bug fixes and features.
 
 
-## License
-
-No license file was present in the original repository. If you want this project to be open source, consider adding an OSI-approved license (e.g., MIT).
 
 
 ---
 
-*README generated after reviewing the repository structure and Java sources.*
+
 
